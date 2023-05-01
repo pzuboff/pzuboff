@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 🙋🏻‍♂️
+I'm Pavel, Data Scientist and SQL enthusiast from Moscow, Russia 🪆
 <!--
 **pzuboff/pzuboff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
