@@ -1,5 +1,5 @@
-### Hi there 
-I'm Pavel, Data Scientist and SQL enthusiast from Moscow, Russia 🪆
+### Hi there :wave:
+I'm Pavel, Data Scientist and SQL enthusiast from Moscow, Russia :ru:
 
 - 🔭 I’m currently looking for a job
 <!--
