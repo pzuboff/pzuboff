@@ -1,6 +1,7 @@
 ### Hi there :wave:
 I'm Pavel, Data Scientist and SQL enthusiast from Moscow, Russia :ru:
 
+- 🌱 I’m currently improve my DS, ML, Python skills
 - 🔭 I’m currently looking for a job
 <!--
 **pzuboff/pzuboff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +9,7 @@ I'm Pavel, Data Scientist and SQL enthusiast from Moscow, Russia :ru:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
